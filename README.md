@@ -27,9 +27,9 @@ I have implemented three additional image processing filters to enhance the reco
 | **B** | Toggle Gaussian Blur |
 | **ESC** | Exit Application |
 
-##  Technical Details
+## Technical Details
 - **FPS**: 20.0
-- **FourCC**: XVID (AVI container)
+- **FourCC**: MP4V
 - **Library**: OpenCV-Python
 
 ##  How to Run
