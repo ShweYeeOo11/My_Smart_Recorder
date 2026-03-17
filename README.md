@@ -2,8 +2,11 @@
 
 A Python-based video recorder application built using OpenCV. It features real-time video preview, recording capabilities, and multiple image processing filters.
 
+## 📸 Program Preview 
+![Main Interface](screenshot.png)
+
 ## 🎬 Demo Video
-<video src="demo video" width="100%" controls></video>
+<video src="demo" width="100%" controls></video>
 
 ## 🚀 Key Features
 - **Real-time Preview**: Displays live camera feed with zero latency.
