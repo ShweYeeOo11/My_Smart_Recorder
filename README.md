@@ -1,6 +1,6 @@
 # My_Smart_Recorder
 
-A Python-based video recorder application built using OpenCV. This project was developed as part of Homework 1 for the Computer Vision course. It features real-time video preview, recording capabilities, and multiple image processing filters.
+A Python-based video recorder application built using OpenCV. It features real-time video preview, recording capabilities, and multiple image processing filters.
 
 ## 📸 Screenshots
 ![Program Screenshot](screenshot.png)
