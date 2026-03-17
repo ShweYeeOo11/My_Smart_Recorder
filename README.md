@@ -6,7 +6,7 @@ A Python-based video recorder application built using OpenCV. It features real-t
 ![Main Interface](screenshot.png)
 
 ## 🎬 Demo Video
-<video src="My_Smart_Recorder.mp4" width="100%" controls></video>
+<video src="Demo_Video.mp4" width="100%" controls></video>
 
 ## 🚀 Key Features
 - **Real-time Preview**: Displays live camera feed with zero latency.
